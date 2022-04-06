@@ -8,3 +8,8 @@
     font-family: 'Roboto Condensed', arial, sans-serif;
   }
   
+
+.App{
+  position: relative;
+  min-height: 100vh;
+}
