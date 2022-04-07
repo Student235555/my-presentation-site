@@ -7,7 +7,7 @@ const Welcome = () => {
             <p className='mainWelcomeP'>Welcome to my website. I am Marcin Pawluś 
             and I inspire to become junior frontend-developer.</p>
             <p className='smallWelcomeP'>I am a graduate of Computer Science at the 
-            Faculty of Electronics at PolitechnikaWrocławska. My goal is to find a first 
+            Faculty of Electronics at Politechnika Wrocławska. My goal is to find a first 
             job as a junior developer or similar position, that will give me the opportunity 
             to make the first steps in the IT industry.</p>
         </div>
