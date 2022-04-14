@@ -18,3 +18,12 @@
     top: 70%;
     left: 25%;
 }
+
+.cursorActive{
+    opacity: 1;
+}
+
+.cursorNotActive{
+    opacity: 0;
+    transition: 0.2s;
+}
