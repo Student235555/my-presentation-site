@@ -1,5 +1,8 @@
 .ListOfProjects{
-    position: relative;
-    left: 0%;
-    top: 50%;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px 20px;
+  margin-top: 300px;
 }

@@ -1,0 +1,16 @@
+.liProject{
+    width: 30%;
+    height: 150px;
+    border: 2px solid white;
+    border-radius: 0%;
+}
+
+.liProject a{
+    color: white;
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.liProject a:hover{
+    color: yellow;
+}
