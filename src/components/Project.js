@@ -8,8 +8,10 @@ const Project = ({project}) => {
     return ( 
         <>
             <li className='liProject'>
-                <p className='oneMovieA'>
-                    <strong>{name}</strong>, Description: {desc}, (Link: {link})
+                <p className='oneProject'>
+                    <strong>{name}</strong>
+                    <br></br> <strong>Description: </strong> {desc}
+                    <br></br> Click <a target="_blank" rel="noreferrer" href={link}>HERE </a> to see this project!
                 </p>
             </li>
         </>
